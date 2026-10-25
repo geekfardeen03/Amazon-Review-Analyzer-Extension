@@ -48,7 +48,7 @@ The Credibility Score (0-100) represents the overall trustworthiness of product 
 - Review length and detail
 - Review date distribution
 - Text quality and coherence
-- Review pattern analysis
+- Review pattern analysiss
 
 Score ranges:
 - 70-100: High reliability
